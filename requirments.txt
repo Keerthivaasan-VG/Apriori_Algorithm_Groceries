@@ -1,4 +1,7 @@
 streamlit
 pandas
 mlxtend
+matplotlib
+networkx
 openpyxl
+joblib
